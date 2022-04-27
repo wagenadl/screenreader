@@ -8,7 +8,7 @@ Such circuits have appeared in the literature many times. The one presented here
 
 <img alt="Circuit diagram" src="https://github.com/citneuro/screenreader/blob/main/PhotoNPNAmplifier-11.png" width="800">
 
-The reliability is due to the use of an adaptive threshold (implemented by R2 and C1) that automatically tracks the lighting conditions of your screen. Thanks to an internal [Schmitt trigger](https://en.wikipedia.org/wiki/Schmitt_trigger) (implemented by R3), the system is insensitive to minor lighting variations (as could, for instance, occur due to bleed-through of light from other parts of the visual display). 
+The reliability is due to the use of an adaptive threshold (implemented by R2 and C1) that automatically tracks the lighting conditions of your screen. Thanks to an internal [Schmitt trigger](https://en.wikipedia.org/wiki/Schmitt_trigger) (implemented by R3 and R4), the system is insensitive to minor lighting variations (as could, for instance, occur due to bleed-through of light from other parts of the visual display). 
 
 # Ordering parts
 
