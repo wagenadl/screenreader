@@ -18,6 +18,8 @@ The system uses only off-the-shelf components. A [parts list](https://github.com
 
 If you are making just one, you can lay out the circuit on a breadboard. However, it is much easier to order a printed circuit board using the provided [Gerber files](https://github.com/citneuro/screenreader/blob/main/PhotoNPNAmplifier-11.zip). When connecting the phototransistor, be sure to pay attention to which leg goes where (see circuit diagram). I like to put the board inside a little enclosure and use the BNC connector (J1) to hold the board to the front panel.
 
+![PCB layout](https://github.com/citneuro/screenreader/blob/main/PhotoNPNAmplifier-11-pcb.png)
+
 # Usage
 
 Either tape the phototransistor directly to your screen, or stick it through a 3-mm hole in a piece of black acrylic (plexiglass) for added stability. The device can be powered by any 5V source, including a USB power brick or port on your PC. It uses very little power. (About 1 mA.) The output from the device is zero volts when the phototransistor detects darkness, or (just under) 5 volts when it detects light. This can be connected directly to analog or digital input ports of most data acquisition systems.
