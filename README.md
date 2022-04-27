@@ -29,3 +29,7 @@ Either tape the phototransistor directly to your screen, or stick it through a 3
 # Making changes
 
 If you want to make changes to the design, you can edit the circuit diagram (PhotoNPNAmplifier-11.cschem) and PCB layout (PhotoNPNAmplifier-11.cpcb) using my software [CSchem](https://github.com/wagenadl/cschem/), which is available for Linux and Windows.
+
+# Credits
+
+Developed and tested by DAW and Frank Lanfranchi
